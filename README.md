@@ -13,3 +13,5 @@ While it may not actually be the case, if the Federal government of Canada were 
 ## Inital Causal Loop Diagram
 
 ![Initial Causal Loop Diagram](https://github.com/user-attachments/assets/66423701-562d-44d6-b913-f17a1dd0a1c2)
+
+When federal funding for disability employment programs increases, that increases the effectiveness of programs thereby increasing the job retention rate for people with disabilities. Employers then see the results and want to get involved, increasing the employer participation and the federal government sees how well this is going and increases their funding for disability employment programs.
