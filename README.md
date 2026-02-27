@@ -20,3 +20,7 @@ While it may not actually be the case, if the Federal government of Canada were 
 ![Causal Loop Diagram](img/initial-cld.jpg)
 
 When federal funding for disability employment programs increases, that increases the effectiveness of programs thereby increasing the job retention rate for people with disabilities. Employers then see the results and want to get involved, increasing the employer participation and the federal government sees how well this is going and increases their funding for disability employment programs.
+
+## References
+
+Statistics Canada. (2025, May 15). Labour market indicators for persons with and without disabilities, annual. Statistics Canada Retrieved Feburary 27, 2026 from https://www.statcan.gc.ca/en/start
