@@ -23,4 +23,4 @@ When federal funding for disability employment programs increases, that increase
 
 ## References
 
-Statistics Canada. (2025, May 15). Labour market indicators for persons with and without disabilities, annual. Statistics Canada Retrieved Feburary 27, 2026 from https://www.statcan.gc.ca/en/start
+Statistics Canada. (2025, May 14). Labour market indicators for persons with and without disabilities, annual. Statistics Canada Retrieved Feburary 27, 2026 from https://www.statcan.gc.ca/en/start
