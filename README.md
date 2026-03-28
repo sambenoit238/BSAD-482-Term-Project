@@ -2,7 +2,7 @@
 
 ## Decision Statement
 
-How should the federal government allocate limited additional funding for disability employment programs: expanding existing programs, modifying program design, or investing in complementary supports?
+(New Question) How Should the federal government allocate additional funding across disability employment strategies to maximize employment outcomes for people with disabilities?
 
 > [!TIP] 
 > This is a great project, but it's ambitious. Let's simplify life a bit and focus on a goal/KPI - such as % of population who are employed, or mean salary for disabled folks. Then, if we have that, and historical data, we can do a multiple linear regression analysis to see what lever is most meaningful. Next step is to pick the KPI.
