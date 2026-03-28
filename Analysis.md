@@ -10,3 +10,8 @@ One of the archetype structures that fits this decision is shifting the burden w
 
 # Scenerio Narratives #
 
+## Status Quo Narrative ##
+
+If the federal government were not to take any action and just follow the “status quo”, the employment rate for people with disabilities would still be much lower than the employment rate for those without disabilities like the data shows today. As of right now and as shown in the quick fix loop, any incentives that the government has in place for employers to hire those with disabilities still increases the disability employment rate, which then increases the employers dependence on using government incentives to hire those with disabilities, increasing the number and amount of government incentives given out. While this might be working to increase the number of people with disabilities who are employed, there are 2 consequences that connect to the employer’s dependence on government incentives to hire those with disabilities. The first consequence is that by depending on government incentives, the quality of accommodations and overall workplace accessibility decreases as employers attempt to find the cheapest and most temporary ways to make their workplaces accessible for the people they are hiring. The second consequence to depending on government incentives to hire those with disabilities is that when dependence increases, employers knowledge and understanding of inclusive hiring decreases, causing the employer to hire people with disabilities for DEIA purposes without understanding why DEIA in the workplace matters because it allows for more than one idea or belief to be shared.
+
+## Intervention A ##
