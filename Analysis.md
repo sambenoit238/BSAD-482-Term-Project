@@ -6,7 +6,7 @@ One of the archetype structures that fits this decision is shifting the burden w
 
 ## Archetype Diagram ##
 
-<img width="1060" height="621" alt="image" src="https://github.com/user-attachments/assets/c15afbd6-a9c8-49c7-af66-4e86211ef2f2" />
+<img width="947" height="632" alt="image" src="https://github.com/user-attachments/assets/b2f6eb1d-a517-43c5-8037-4d7d59cd02e9" />
 
 # Scenerio Narratives #
 
@@ -24,3 +24,4 @@ If the government were to follow Intervention B, they would still be following t
 
 # Leverage Point Analysis #
 
+The most promising leverage point is “Employer Knowledge and Understanding of Inclusive Hiring Practices.” This point has high impacts which include the improvement of the disability employment rate and quality of accommodations and workplace accessibility as well as strengthens the fundamental loop and reduces the dependence by employers on government incentives, relative to effort. These efforts include the improvement of training programs, guidelines and awareness campaigns and the nonessential rebuilding of the system. However because the point reduces dependency by employers on government incentives, employers who now have the knowledge and understanding of inclusive hiring who want to hire more employees who identify as a “person with a disability” may not have the funding available to make their workplaces more accessible for those with disabilities that they want to hire.
