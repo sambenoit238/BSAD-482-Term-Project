@@ -12,7 +12,7 @@ While it may not actually be the case, if the Federal government of Canada were 
 
 ## Table of Contents
 
-[Link Text](#Background)
+[Background](Background.md)
 
 ## References
 
