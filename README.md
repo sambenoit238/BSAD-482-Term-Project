@@ -28,6 +28,8 @@ While it may not actually be the case, if the Federal government of Canada were 
 
 ## Limitations and Further Work
 
+A major limitation that I faced was the unavailability of data on the Statistics Canada website. As this is a very under researched topic and data from Statistics Canada was not only difficult to find, but sparse as well spanning only the last few years, I didn’t have a lot to work with. Another major limitation I faced was that I was only focused on people with disabilities and didn’t take into account other minorities, many of whom also have issues with employment and also didn’t take into account how intersectionality plays a role in unemployment, which would be an interesting topic for future research.  Finally, the time period that I had to work on this project was also a major limitation. With limited time and focus on other schoolwork, I couldn’t  dive as deep into the research as I would have liked too and therefore may have missed things that would be beneficial to the decision.
+
 ## Reflection
 
 ## References
