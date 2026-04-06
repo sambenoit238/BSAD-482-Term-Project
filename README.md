@@ -18,6 +18,8 @@ While it may not actually be the case, if the Federal government of Canada were 
 
 [Data Wrangling Steps](Wrangling.md)
 
+[Recommendation](Recommendation.md)
+
 [Data](data/)
 
 [Images](img/)
