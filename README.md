@@ -16,6 +16,8 @@ While it may not actually be the case, if the Federal government of Canada were 
 
 [Datasets for Project](Background.md)
 
+[Data](data/)
+
 ## References
 
 (n.d.). Canada’s Disability Inclusion Action Plan, 2022. Government of Canada. Retrieved January 29, 2026, from https://www.canada.ca/en/employment-social-development/programs/disability-inclusion-action-plan/action-plan-2022.html#h3.6 
