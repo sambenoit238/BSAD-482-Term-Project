@@ -16,7 +16,13 @@ While it may not actually be the case, if the Federal government of Canada were 
 
 [Datasets for Project](Background.md)
 
+[Data Wrangling Steps](Wrangling.md)
+
 [Data](data/)
+
+[Images])img/)
+
+[Source Code](src/)
 
 ## References
 
