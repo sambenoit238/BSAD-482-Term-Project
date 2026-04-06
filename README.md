@@ -37,9 +37,15 @@ Overall, I found this project to be quite interesting. I learned a little bit mo
 ## References
 
 (n.d.). Canada’s Disability Inclusion Action Plan, 2022. Government of Canada. Retrieved January 29, 2026, from https://www.canada.ca/en/employment-social-development/programs/disability-inclusion-action-plan/action-plan-2022.html#h3.6 
+
 Cantor, A. (2021). Part 2: The Costs and Benefits of Accommodating Employees with Disabilities. Cantor Access Inc, 2. https://learn.odenetwork.com/wp-content/uploads/2025/06/JOBACC_1.pdf 
+
 Draus, A. (2022, May 30). A Halifax resident and how their disability impacts finding work. Global News. https://globalnews.ca/news/8880328/federal-investment-support-people-disabilities-finding-employment/ 
+
 (n.d.). Employment Strategy for Canadians with Disabilities. Government of Canada. Retrieved January 30, 2026, from https://www.canada.ca/en/employment-social-development/programs/disability-inclusion-action-plan/employment-strategy.html#h2.4 
+
 (n.d.). Opportunities Fund for Persons with Disabilities. Government of Canada. Retrieved February 2, 2026, from https://www.canada.ca/en/employment-social-development/programs/opportunity-fund-disability.html 
+
 Statistics Canada. (2025, May 14). Labour market indicators for persons with and without disabilities, annual. Statistics Canada Retrieved Feburary 27, 2026 from https://www.statcan.gc.ca/en/start
+
 Wittenburg, D., Mann, D. R., & Thompkins, A. (2013). The disability system and programs to promote employment for people with disabilities. IZA Journal of Labor Policy, Volume 2. https://doi.org/10.1186/2193-9004-2-4 
