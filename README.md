@@ -32,6 +32,8 @@ A major limitation that I faced was the unavailability of data on the Statistics
 
 ## Reflection
 
+Overall, I found this project to be quite interesting. I learned a little bit more about how to use data more effectively and got to explore and dive deeper into Statistic Canada’s different databases which is something I don’t think I would have done if it weren’t for this project. I was surprised by how much data Statistic Canada has available for the general public and how easy it was to download it onto my computer and put it in Tableau for example. I was also surprised by how difficult wrangling data that wasn’t provided by my professor is, where I felt unsure of whether I was actually doing it right. If I was to do this project again, I think I will touch on a bit of a bigger and more researched issue, as finding data for this project was not easy, but it also taught me that perhaps there needs to be more light shed on this issue as I think that it is very important even more so now than when I began, especially considering the lack of data available.
+
 ## References
 
 (n.d.). Canada’s Disability Inclusion Action Plan, 2022. Government of Canada. Retrieved January 29, 2026, from https://www.canada.ca/en/employment-social-development/programs/disability-inclusion-action-plan/action-plan-2022.html#h3.6 
